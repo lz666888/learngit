@@ -1,4 +1,5 @@
 nihao github
 
 i am a lover
-i
+git is distributed version control system
+
